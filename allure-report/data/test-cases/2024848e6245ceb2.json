@@ -1,0 +1,171 @@
+{
+  "uid" : "2024848e6245ceb2",
+  "name" : "testGitHub()",
+  "fullName" : "sample_test.SelenideTest.testGitHub",
+  "historyId" : "848ba20cbb9525e59fd0d011f4c9ddd1",
+  "time" : {
+    "start" : 1609823249352,
+    "stop" : 1609823265639,
+    "duration" : 16287
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "$(\"open\") https://github.com",
+      "time" : {
+        "start" : 1609823249491,
+        "stop" : 1609823262521,
+        "duration" : 13030
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"Search field\") click()",
+      "time" : {
+        "start" : 1609823262567,
+        "stop" : 1609823263515,
+        "duration" : 948
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"Search field\") send keys(eroshenkoam/allure-example)",
+      "time" : {
+        "start" : 1609823263515,
+        "stop" : 1609823263593,
+        "duration" : 78
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"Search field\") submit()",
+      "time" : {
+        "start" : 1609823263593,
+        "stop" : 1609823264031,
+        "duration" : 438
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"By.linkText: eroshenkoam/allure-example\") click()",
+      "time" : {
+        "start" : 1609823264031,
+        "stop" : 1609823264811,
+        "duration" : 780
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"with text: Issues\") click()",
+      "time" : {
+        "start" : 1609823264813,
+        "stop" : 1609823264939,
+        "duration" : 126
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "$(\"with text: #68\") should(exist)",
+      "time" : {
+        "start" : 1609823264940,
+        "stop" : 1609823265632,
+        "duration" : 692
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Stanislavs-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "4878@Stanislavs-MacBook-Pro.local.Test worker(11)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "sample_test.SelenideTest"
+  }, {
+    "name" : "testClass",
+    "value" : "sample_test.SelenideTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testGitHub"
+  }, {
+    "name" : "suite",
+    "value" : "sample_test.SelenideTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2024848e6245ceb2.json",
+  "parameterValues" : [ ]
+}

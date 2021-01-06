@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "sample_test",
+    "children" : [ {
+      "name" : "SelenideTest",
+      "children" : [ {
+        "name" : "testGitHub",
+        "uid" : "9404e3386fbb97fd",
+        "parentUid" : "117fbdde958a8158be98ea83fd86bc8a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609823771659,
+          "stop" : 1609823791359,
+          "duration" : 19700
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "117fbdde958a8158be98ea83fd86bc8a"
+    }, {
+      "name" : "RetrofitTest",
+      "children" : [ {
+        "name" : "testGitHubRepos",
+        "uid" : "4ff7184e6119f77e",
+        "parentUid" : "a1982b15f80266dee72109e36b15ea99",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609957405386,
+          "stop" : 1609957406478,
+          "duration" : 1092
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a1982b15f80266dee72109e36b15ea99"
+    } ],
+    "uid" : "4a75bbffd356f885c7e08c632cbb8bed"
+  } ]
+}

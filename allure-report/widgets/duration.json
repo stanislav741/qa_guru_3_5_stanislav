@@ -1,0 +1,21 @@
+[ {
+  "uid" : "4ff7184e6119f77e",
+  "name" : "testGitHubRepos()",
+  "time" : {
+    "start" : 1609957405386,
+    "stop" : 1609957406478,
+    "duration" : 1092
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9404e3386fbb97fd",
+  "name" : "testGitHub()",
+  "time" : {
+    "start" : 1609823771659,
+    "stop" : 1609823791359,
+    "duration" : 19700
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

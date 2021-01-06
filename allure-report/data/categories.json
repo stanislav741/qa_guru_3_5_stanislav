@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element not found {with text: Issuesy}\nExpected: visible or transparent: visible or have css value opacity=0\nScreenshot: file:/Users/stanislav/Documents/qa.guru/qa_guru_3_5_stanislav/build/reports/tests/1609823790421.0.png\nPage source: file:/Users/stanislav/Documents/qa.guru/qa_guru_3_5_stanislav/build/reports/tests/1609823790421.0.html\nTimeout: 4 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//*/text()[contains(normalize-space(translate(string(.), '",
+      "children" : [ {
+        "name" : "testGitHub()",
+        "uid" : "9404e3386fbb97fd",
+        "parentUid" : "dd810cb5d220ff2ece384ed937378884",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609823771659,
+          "stop" : 1609823791359,
+          "duration" : 19700
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dd810cb5d220ff2ece384ed937378884"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

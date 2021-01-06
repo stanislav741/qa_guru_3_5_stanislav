@@ -1,0 +1,94 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Stanislavs-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "2258@Stanislavs-MacBook-Pro.local.Test worker(11)",
+      "children" : [ {
+        "name" : "testGitHubRepos()",
+        "uid" : "4ff7184e6119f77e",
+        "parentUid" : "56b654b9d4f80685a90c32f2120c37c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609957405386,
+          "stop" : 1609957406478,
+          "duration" : 1092
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "56b654b9d4f80685a90c32f2120c37c7"
+    }, {
+      "name" : "4878@Stanislavs-MacBook-Pro.local.Test worker(11)",
+      "children" : [ {
+        "name" : "testGitHub()",
+        "uid" : "2024848e6245ceb2",
+        "parentUid" : "54f152693cf9089794614649e7bfa9fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609823249352,
+          "stop" : 1609823265639,
+          "duration" : 16287
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "54f152693cf9089794614649e7bfa9fc"
+    }, {
+      "name" : "2152@Stanislavs-MacBook-Pro.local.Test worker(11)",
+      "children" : [ {
+        "name" : "testGitHubRepos()",
+        "uid" : "5cb6bbbc3a6e841b",
+        "parentUid" : "074a311f3a7a500b65d3d668b8f57c9d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609956550132,
+          "stop" : 1609956551640,
+          "duration" : 1508
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "074a311f3a7a500b65d3d668b8f57c9d"
+    }, {
+      "name" : "2103@Stanislavs-MacBook-Pro.local.Test worker(11)",
+      "children" : [ {
+        "name" : "testGitHubRepos()",
+        "uid" : "c84365b8c30150dc",
+        "parentUid" : "52f9f4fdbf0210d17647154063c784e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609956142991,
+          "stop" : 1609956143986,
+          "duration" : 995
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "52f9f4fdbf0210d17647154063c784e1"
+    }, {
+      "name" : "4976@Stanislavs-MacBook-Pro.local.Test worker(11)",
+      "children" : [ {
+        "name" : "testGitHub()",
+        "uid" : "9404e3386fbb97fd",
+        "parentUid" : "8580586b2c9a9d00791855e8db13f67c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609823771659,
+          "stop" : 1609823791359,
+          "duration" : 19700
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8580586b2c9a9d00791855e8db13f67c"
+    } ],
+    "uid" : "449257baece27f04fd79f86acfe39995"
+  } ]
+}

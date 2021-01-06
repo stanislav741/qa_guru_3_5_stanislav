@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "sample_test.SelenideTest",
+    "children" : [ {
+      "name" : "testGitHub()",
+      "uid" : "9404e3386fbb97fd",
+      "parentUid" : "cee2d8efd53943647e25561182ca765f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1609823771659,
+        "stop" : 1609823791359,
+        "duration" : 19700
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cee2d8efd53943647e25561182ca765f"
+  }, {
+    "name" : "sample_test.RetrofitTest",
+    "children" : [ {
+      "name" : "testGitHubRepos()",
+      "uid" : "4ff7184e6119f77e",
+      "parentUid" : "1ed42b80887def708b15da110a1475e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609957405386,
+        "stop" : 1609957406478,
+        "duration" : 1092
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1ed42b80887def708b15da110a1475e7"
+  } ]
+}

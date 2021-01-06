@@ -1,0 +1,41 @@
+{
+  "a0ac3996f3abc852255da5c820175cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ff7184e6119f77e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609957405386,
+        "stop" : 1609957406478,
+        "duration" : 1092
+      }
+    } ]
+  },
+  "848ba20cbb9525e59fd0d011f4c9ddd1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9404e3386fbb97fd",
+      "status" : "failed",
+      "statusDetails" : "Element not found {with text: Issuesy}\nExpected: visible or transparent: visible or have css value opacity=0\nScreenshot: file:/Users/stanislav/Documents/qa.guru/qa_guru_3_5_stanislav/build/reports/tests/1609823790421.0.png\nPage source: file:/Users/stanislav/Documents/qa.guru/qa_guru_3_5_stanislav/build/reports/tests/1609823790421.0.html\nTimeout: 4 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//*/text()[contains(normalize-space(translate(string(.), '",
+      "time" : {
+        "start" : 1609823771659,
+        "stop" : 1609823791359,
+        "duration" : 19700
+      }
+    } ]
+  }
+}
